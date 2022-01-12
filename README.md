@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+
+<h3 align="center">👋 Hi there! I'm Gift Egwuenu</h3>
+<p align="center">
+  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
 
 <!--
 **Chenko1997/Chenko1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
